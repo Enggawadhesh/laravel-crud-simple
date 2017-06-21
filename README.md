@@ -11,9 +11,9 @@ Install xampp (https://www.apachefriends.org/download.html)
 
 Install composer (https://getcomposer.org/download)
 
-Installation Steps-
+App Installation Steps-
 1) Clone/Download App
-2) Open cmd/terminal and goto laravel folder
+2) Open cmd/terminal in laravel folder
 3) Run 'php artisan serve' commend
 4) You got development url copy this and paste in your browser
 5) Now you have Laravel Welcome page
