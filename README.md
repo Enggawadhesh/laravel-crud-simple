@@ -12,7 +12,7 @@ Install xampp (https://www.apachefriends.org/download.html)
 Install composer (https://getcomposer.org/download)
 
 Installation Steps-
-1) Download App
+1) Clone/Download App
 2) Open cmd/terminal and goto laravel folder
 3) Run 'php artisan serve' commend
 4) You got development url copy this and paste in your browser
