@@ -34,3 +34,5 @@ App Installation Steps-
 18) Go to resources/views/crud folder see crud blade files
 19) Go to routes folder see web files for all routing
 20) For more details visit at Laravel official website https://laravel.com/docs/5.4
+
+For letest update follow me at Twitter- https://twitter.com/enggawadhesh
