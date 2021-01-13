@@ -13,9 +13,8 @@ Install composer (https://getcomposer.org/download)
 
 App Installation Steps-
 
--Download fresh laravel project via cmd/terminal with commend 'composer create-project laravel/laravel --prefer-dist' in your drive
 1) Clone/Download App
-2) Copy vendor folder from laravel and paste it in 'laravel-crud-simple' folder
+2) Open cmd/terminal in root directory and run "composer install" 
 3) Open cmd/terminal in laravel-crud-simple folder
 4) Run 'php artisan serve' commend
 5) You got development url copy this and paste in your browser
